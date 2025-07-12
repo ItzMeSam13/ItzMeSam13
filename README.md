@@ -35,7 +35,6 @@
 ### 📫 How to Reach Me
 
 - [GitHub](https://github.com/ItzMeSam13)
-- [LinkedIn](linkedin.com/in/sampreet-kalkundrikar-7a732a1b1)
 
 ---
 
