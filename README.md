@@ -35,15 +35,12 @@
 ### 📫 How to Reach Me
 
 - [GitHub](https://github.com/ItzMeSam13)
-- (Add your email or social links here)
+- [LinkedIn](linkedin.com/in/sampreet-kalkundrikar-7a732a1b1)
 
 ---
 
 ### 🛠️ Projects & Contributions
-
-- (List your projects or pin repos here. Example:)
-    - [My Portfolio Website](https://github.com/ItzMeSam13/portfolio)
-    - [Machine Learning Playground](https://github.com/ItzMeSam13/ml-playground)
+- checkout my repos
 
 ---
 
