@@ -1,47 +1,25 @@
-# 👋 Hi, I'm Sam!
+# Hey, I'm Sampreet 👋
 
-### 🚀 About Me
+Computer Engineering student at Goa Engineering College, building at the intersection of AI and backend systems.
 
-- **Student & Web Developer**
-- Skilled in **Express**, **Node.js**, and backend development
-- Basics in **React** (eager to learn more about frontend!)
-- Comfortable with **C**, **C++**, **Python**, and **JavaScript**
-- Passionate about building websites and bringing ideas to life!
+## Technical Skills
 
-### 🧠 Learning & Growth
+**Languages:** C · C++ · Python · Java · JavaScript  
+**AI / ML:** LangChain · RAG Pipelines  
+**Backend:** FastAPI · Flask · Node.js · REST APIs  
+**Frontend:** Next.js · React  
+**Tools:** Firebase · Git · DSA  
 
-- Currently exploring **AI/ML** concepts using Python
-- Interested in integrating machine learning models with web applications
-- Always up for learning new technologies and frameworks!
+## Currently Learning
 
----
+- Data Structures & Algorithms — Babbar DSA Sheet + NeetCode (currently on Linked Lists)
+- Java & Spring Boot — progressing toward backend development
+- AI Agent Development — LangChain, RAG pipelines, tool-integrated agents
 
-### 💡 Tech Stack
+## Find Me
 
-- **Languages:** C, C++, Python, JavaScript
-- **Backend:** Node.js, Express.js
-- **Frontend:** React (basics), HTML, CSS
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sampreet--kalkundrikar-blue)](https://www.linkedin.com/in/sampreet-kalkundrikar-7a732a1b1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/lqmX9sYru2/)
 
----
-
-### 📈 Goals
-
-- Deepen my knowledge in **React** and modern frontend development
-- Build and deploy **AI/ML-powered web apps**
-- Contribute to open-source projects
-
----
-
-### 📫 How to Reach Me
-
-- [GitHub](https://github.com/ItzMeSam13)
-
----
-
-### 🛠️ Projects & Contributions
-- checkout my repos
-
----
-
-> **“Learning never exhausts the mind.” — Leonardo da Vinci**
+*"Learning never exhausts the mind." — Leonardo da Vinci*
 
