@@ -104,15 +104,6 @@ Areas: forensic analysis, scripting, and security fundamentals.
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ItzMeSam13&show_icons=true&hide_border=true&count_private=false" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItzMeSam13&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
----
-
 <p align="center">
   <i>Open to feedback, collaboration, and good backend problems.</i>
 </p>
